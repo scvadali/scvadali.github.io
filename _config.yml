@@ -11,7 +11,7 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Chandrahaas Vadali"
 description              : &description "Hardware Enthusiast"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://scvadali.github.io"
+url                      : https://scvadali.github.io # the base hostname & protocol for your site e.g. "https://scvadali.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scvadali/scvadali.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/cvadali"
+  linkedin         : "cvadali"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
