@@ -85,8 +85,8 @@ author:
   bio              : "Engineering Tomorrow's Hardware"
   location         : "Portland, Oregon"
   employer         : "Intel"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  strava           : "https://www.strava.com/athletes/76413605"
 
 # Reading Files
 include:
