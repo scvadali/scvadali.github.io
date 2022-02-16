@@ -1,5 +1,5 @@
 ---
-permalink: /education/education
+permalink: /education/stanford
 ---
 ![Stanford image](/images/stanford.png)
 # Stanford University
