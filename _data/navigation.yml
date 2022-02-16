@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Education"
-    url: /education/
+    url: /_publicaions/education.md
 
   - title: "Career"
     url: /talks/    
