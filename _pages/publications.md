@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: scvadali.github.io/_pages/publications/
 author_profile: true
 ---
 
