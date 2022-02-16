@@ -2,7 +2,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: scvadali.github.io/_publication/education.md
+permalink: /_publication/education.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
