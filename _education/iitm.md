@@ -1,4 +1,8 @@
-![Stanford image](/images/IIT_Madras_Logo.svg)
+---
+permalink: /education/stanford
+---
+
+![IITM image](/images/IIT_Madras_Logo.svg)
 # Indian Institute of Technology, Madras
 ### Bachelor of Technology in Metallurgical and Materials Engineering | 2015-2019 | GPA: 8.71/10.00
 ### Minor in Semiconductor Devices (Electrical Engineering) 
