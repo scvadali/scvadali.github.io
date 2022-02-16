@@ -1,5 +1,5 @@
 ---
-permalink: /education/stanford
+permalink: /education/iitm
 ---
 
 ![IITM image](/images/IIT_Madras_Logo.svg)
