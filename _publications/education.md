@@ -2,7 +2,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /_publication/education.md
+permalink: /publication/education
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
