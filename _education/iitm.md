@@ -1,5 +1,5 @@
 ---
-permalink: /education/iitm
+permalink: /education/
 ---
 
 ![IITM image](/images/IIT_Madras_Logo.svg)
