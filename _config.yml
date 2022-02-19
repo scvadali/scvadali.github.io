@@ -116,7 +116,9 @@ author:
   youtube          :
   wikipedia        :
   strava           : "76413605"
-
+  medium           : "@scvadali"
+  
+  
 # Reading Files
 include:
   - .htaccess
