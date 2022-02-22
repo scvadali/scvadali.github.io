@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 --->
 ## Hi, there!
 
-I am Chandrahaas Vadali, a Hardware Engineer working on advancing [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) and taking semicoductor devices to the next generation. Tackling challenges in the device physics, process integration,  and circuit-device co-optimization in cutting edge technology nodes fascinate me! 
+I am Chandrahaas Vadali, a Hardware Engineer working on advancing [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) and taking semicoductor devices to the next generation. Tackling challenges in device physics, process integration, and circuit-device co-optimization in cutting edge technology nodes fascinate me! 
 
 
 Trained as a Materials Scientist and an Electrical Engineer, I believe that a modern-day engineer should be well equipped not just to be able to solve problems but also to able to ask tough questions which are necessary to change the innovation landscape.
