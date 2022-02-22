@@ -9,7 +9,7 @@ author_profile: true
 # Intel
 ### Device Engineer | May 2021 - Present 
 
-As a part of the Test Chip Integration team, I examine transistor performance and isolation structures in _RibbonFETs_ as a key contributor of R&D efforts into Intel's future technology nodes. 
+As a part of the Test Chip Integration team, I examine transistor performance and isolation structures in _RibbonFETs_ as a key contributor towards R&D efforts into Intel's future technology nodes. 
 
 On a daily basis, I work on building and optimizing test structures that probe into process margins and performance gains for a given node/product. Being a device engineer, I enjoy analyzing I-V characteristics, developing leakage models, and understanding inherent process in novel transistor architectures.
 
