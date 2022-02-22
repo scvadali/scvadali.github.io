@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa-solid fa-briefcase-blank" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -116,10 +116,10 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.strava %}
-        <li><a href="https://www.strava.com/athletes/{{ author.strava }}"><i class="fa-brands fa-strava"></i> Strava</a></li>
+        <li><a href="https://www.strava.com/athletes/{{ author.strava }}"><i class="fa-brands fa-strava" aria-hidden="true"></i> Strava</a></li>
       {% endif %}
       {% if author.medium %}
-        <li><a href="https://medium.com/{{ author.medium }}"><i class="ai ai-medium ai-fw"></i> Medium</a></li>
+        <li><a href="https://medium.com/{{ author.medium }}"><i class="fa-brands fa-medium"></i> Medium</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
