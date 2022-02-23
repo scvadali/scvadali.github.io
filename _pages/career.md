@@ -25,18 +25,25 @@ On a daily basis, I work on building and optimizing test structures that probe i
 I worked in the Advanced Silicon Packaging team of GlobalFoundries to develop and model the following modules -
 
 **Projects:**
-1. An aperture coupled antenna design for 5G Antenna-in-Package systems operating at 28 GHz on **ANSYS HFSS**. The design of the slot/aperture was crucial along with the placement of the ground plane under the radiating patch. The build also involved multi-parameter optimization to minimize return loss (< -20 db) and achieve a gain (?). 
-2. Electrical characterization of Deep Trench Capacitors used to decouple the power supply in the 32 nm node on **KLayout** and **ANSYS Q3D**. An RLC model was extracted and compared to back-of-envelope calculations as a preliminary check. GF's integration team would later used this model to evaluate their process understanding and performance objectives.
+1. An **aperture coupled antenna design** for **5G Antenna-in-Package system** operating at 28 GHz on **ANSYS HFSS**. The design of the slot/aperture was crucial along with the placement of the ground plane under the radiating patch. The build also involved multi-parameter optimization to minimize return loss (< -20 db) and achieve a gain (?). 
+2. **Electrical characterization of Deep Trench Capacitors** used to decouple the power supply in the 32 nm node on **KLayout** and **ANSYS Q3D**. An RLC model was extracted and compared to back-of-envelope calculations as a preliminary check. GF's integration team would later used this model to evaluate their process understanding and performance objectives.
 3. AC/DC resistance evaluation of a test chip designed to study package-chip interactions on **ANSYS Q3D**. A via-chain structure was designed and simulated to act as a point-of-reference for studying process maturity.
-4. Characterization of insertion loss induced by a 100 micron Through-Silicon-Via in a test vehicle for 2.5 D/psuedo 3D packaging on **ANSYS HFSS** and **KLayout**. Once again, this modeling efforts were aimed to give an initial estimate to the integration team about the performance of their new packaging technology.
+4. Characterization of **insertion loss induced by a 100 micron Through-Silicon-Via** in a test vehicle for 2.5 D/psuedo 3D packaging on **ANSYS HFSS** and **KLayout**. Once again, this modeling efforts were aimed to give an initial estimate to the integration team about the performance of their new packaging technology.
 
 
 ![isitfresh logo](/images/isitfresh.png)
 # is it fresh GmbH
 ### Antenna Design Intern | May 2018 - Jul 2018 and Jan 2019 - May 2019
 
+**is it fresh GmbH** works on smart tags that monitor food freshness through humidity and oxygen-levels which are read out using a NFC interface.
 
+I worked two stints in Germany - first, on a [DAAD-UGC Scholarship](https://www.daad.in/en/2021/06/30/daad-ugc-project-based-personnel-exchange-programme-ppp-2021/) in the summer after my Junior Year Undergrad, and second, as an Intern sponsored by the company to pursue my Bachelor's thesis with them.
 
+Work in a startup is always fun and dynamic. I was involved in many roles - from building SMD prototypes integrating the printed sensors with NFC circuitry to woodwork and glass cutting for building our own assembly line demo. This place solidified my passion in engineering and helped me decide my path ahead. 
+
+**Projects:**
+1. Design and manufacture of non-standard sized NFC reader antennas to increase the read-out range without increasing the output power.
+2. Design, production and testing of high resistance thin-film Aluminium NFC tag antennas.
 
 <!---
 {% if author.googlescholar %}
