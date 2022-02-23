@@ -6,17 +6,17 @@ main:
   - title: "Career"
     url: /career/    
 
-  - title: "Adventures"
-    url: /teaching/    
+  - title: "Projects"
+    url: /projects/    
     
-  - title: "Interests"
-    url: /portfolio/
+  - title: "Adventures"
+    url: /adventures/
         
   - title: "Media"
-    url: /year-archive/
+    url: /media/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
