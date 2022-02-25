@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ![Intel logo](/images/intel.png)
-# Intel
+## Intel
 ### Device Engineer | May 2021 - Present 
 
 As a part of the Test Chip Integration team, I examine transistor performance and isolation structures in _RibbonFETs_ as a key contributor towards R&D efforts into Intel's future technology nodes. 
@@ -19,7 +19,7 @@ On a daily basis, I work on building and optimizing test structures that probe i
 
 
 ![GF logo](/images/GlobalFoundries-New-Logo.png)
-# GlobalFoundries
+## GlobalFoundries
 ### Antenna Design and Electrical Modeling Intern | June 2020 - Aug 2020
 
 I worked in the Advanced Silicon Packaging team of GlobalFoundries to develop and model the following modules -
@@ -32,7 +32,7 @@ I worked in the Advanced Silicon Packaging team of GlobalFoundries to develop an
 
 
 ![isitfresh logo](/images/isitfresh.png)
-# is it fresh GmbH
+## is it fresh GmbH
 ### Antenna Design Intern | May 2018 - Jul 2018 and Jan 2019 - May 2019
 
 **is it fresh GmbH** works on smart tags that monitor food freshness through humidity and oxygen-levels which are read out using a NFC interface.
