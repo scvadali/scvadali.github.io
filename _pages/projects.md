@@ -1,9 +1,28 @@
 ---
 layout: archive
-title: "Career"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+For projects in my current role and at previous internships, please check out the [Career](https://scvadali.github.io/career/) page.
+
+# Course Projects
+
+During my Bachelor's and Master's programs, I worked on short and focussed projects that helped me consolidate the concepts learned in coursework and gave me a broad idea about how research is conducted in that field.
+
+### Optimal READ/WRITE schemes for Phase Change Memories - EE305A/B
+
+### Fabrication of NMOS devices - EE291
+
+
+# Club Projects
+
+Working in student clubs at Center For Innovation was perhaps the most productive and beneficial part of an undergraduate program at IIT Madras. 
+
+
+
+
 <!---
 ![Intel logo](/images/intel.png)
 # Intel
