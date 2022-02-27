@@ -4,6 +4,11 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+![Stanford image](/images/stanford.png)
+## Stanford University
+### Master of Science in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
+
+Emphasis on semiconductor devices and solid state circuits.
 
 ![IITM image](/images/IIT_Madras_logo.png)
 ## Indian Institute of Technology, Madras
@@ -17,13 +22,6 @@ Minor in Semiconductor Devices (Electrical Engineering).
 2. Student Head, Extra Mural Lectures (2017-18) - [EML](https://www.instagram.com/emliitm/?hl=en)
 3. Student Head, Events, Inter-IIT Tech Meet 2017 
 4. Co-ordinator, Envisage, Shaastra 2016 - [Shaastra](https://www.shaastra.org/)
-
-
-![Stanford image](/images/stanford.png)
-## Stanford University
-### Master of Science in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
-
-Emphasis on semiconductor devices and solid state circuits.
 
 
 <!---
