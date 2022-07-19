@@ -10,6 +10,8 @@ author_profile: true
 
 Emphasis on semiconductor devices and solid state circuits.
 
+--------------------------------------------------------------------------------------------------------
+
 ![IITM image](/images/IIT_Madras_logo.png)
 ## Indian Institute of Technology, Madras
 ### Bachelor of Technology in Metallurgical and Materials Engineering | 2015-2019 | GPA: 8.71/10.00
