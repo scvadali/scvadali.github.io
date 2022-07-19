@@ -10,16 +10,17 @@ redirect_from:
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 --->
-## Hi, there!
+## At the nanoscale
 
 I am Chandrahaas Vadali, a Hardware Engineer working on advancing [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) and taking semicoductor devices to the next generation. Tackling challenges in device physics, process integration, and circuit-device co-optimization in cutting edge technology nodes fascinate me! 
 
 
-Trained as a Materials Scientist and an Electrical Engineer, I believe that a modern-day engineer should be well equipped not just to be able to solve problems but also to able to ask tough questions which are necessary to change the innovation landscape.
+Trained as a Materials Scientist and an Electrical Engineer, I believe that a modern-day engineer should be well equipped not just to be able to solve problems but also to able to ask tough questions which are necessary to change the innovation landscape. 
 
-## Get to know me!
+## On a broader note
 
-
+In my free time, I run, bike, and post my adventures on [Strava](https://www.strava.com/athletes/76413605) and [Medium](https://medium.com/@scvadali).
+For the past two years, I've been training in Carnatic Music, which is a classical South Indian form of music with emphasis on vocals and singing. 
 
 
 
