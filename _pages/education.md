@@ -4,20 +4,41 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-![Stanford image](/images/stanford.png)
+![Stanford image](/images/stanford.png = 100x20)
 ## Stanford University
 ### Master of Science in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
 
-Emphasis on semiconductor devices and solid state circuits.
+Emphasis on semiconductor devices and solid state circuits. 
+
+**Master's Thesis**
+Semi-empirical modeling of impact ionization in wide bandgap systems (PI: Prof. Srabanti Chowdhury)
+[Overview]()
+
+**Coursework**
+1. Semiconductor Memory Devices and Circuit Design
+2. Emerging Non-Volatile Memory Devices and Circuit Design [Final Project]()
+3. Power Semiconductor Devices
+4. Special Topics in Wide Band Gap Devices
+5. Advanced IC Technology, IC Fabrication Lab
+6. Electronics and Photonics Materials and Devices Lab
+
 
 --------------------------------------------------------------------------------------------------------
 
-![IITM image](/images/IIT_Madras_logo.png)
+![IITM image](/images/IIT_Madras_logo.png = 100x20)
 ## Indian Institute of Technology, Madras
 ### Bachelor of Technology in Metallurgical and Materials Engineering | 2015-2019 | GPA: 8.71/10.00
 
 Minor in Semiconductor Devices (Electrical Engineering). 
 
+**Bachelor's Thesis**
+Design and fabrication of printed antennas in VHF and UHF range (PI: Prof. Parasuraman Swaminathan and Dr. Jan Schnitker)
+[Overview]()
+
+**Coursework**
+1. Compact Modeling of Devices in ICs
+2. Solar Cells and Device Physics
+3. Physics of Materials
 
 **Co-curricular Activities**:
 1. Student Head, Electronics Club (2017-18) - [Center for Innovation](https://cfi.iitm.ac.in/)
