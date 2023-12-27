@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Chandrahaas Vadali"
 title_separator          : "-"
 name                     : &name "Chandrahaas Vadali"
-description              : &description "Hardware Enthusiast"
+description              : &description "Device Engineer"
 url                      : https://scvadali.github.io # the base hostname & protocol for your site e.g. "https://scvadali.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scvadali.github.io"
@@ -48,7 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+  #logo                   : 
+  #masthead_title        : "Chandrahaas Vadali"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Chandrahaas Vadali"
   avatar           : "6D3BF694-CB01-4BFF-9AE8-62D3F5795325_1_201_a.jpeg"
-  bio              : "Engineering Tomorrow's Hardware"
+  bio              : "Device Engineer"
   location         : "Portland, Oregon"
   employer         : "Intel"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
