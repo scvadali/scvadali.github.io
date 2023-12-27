@@ -1,19 +1,20 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
 
   - title: "Career"
-    url: /career/    
-
+    url: /career/ 
+  
   - title: "Projects"
-    url: /projects/    
+    url: /projects/   
+  
+  - title: "Education"
+    url: /education/
     
   - title: "Adventures"
     url: /adventures/
         
-  - title: "Media"
-    url: /media/
+  #- title: "Media"
+   # url: /media/
     
   - title: "CV"
     url: /cv/
