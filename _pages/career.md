@@ -5,7 +5,8 @@ permalink: /career/
 author_profile: true
 ---
 
-![Intel logo](/images/intel.png)
+<img src="/images/intel.png" alt="image" width="100" height="100">
+
 ## Intel
 ### Device Engineer | May 2021 - Present 
 
