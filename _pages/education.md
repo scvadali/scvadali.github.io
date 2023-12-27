@@ -1,9 +1,9 @@
 ---
-layout: collection
+layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
-entries_layout: grid
+
 ---
 <img src="/images/stanford.png" alt="image" width="100" height="100">
 
