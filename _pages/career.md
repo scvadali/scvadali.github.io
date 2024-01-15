@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: collection
 title: "Career"
 permalink: /career/
 author_profile: true
+entries_layout: grid
 ---
 
 <img src="/images/intel.png" alt="image" width="100" height="100">
