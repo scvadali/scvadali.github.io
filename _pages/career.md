@@ -1,5 +1,5 @@
 ---
-layout: archive-single
+layout: archive
 title: "Career"
 permalink: /career/
 author_profile: true
