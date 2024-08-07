@@ -37,7 +37,9 @@ On a daily basis, I work on building and optimizing test structures that probe i
 2. **Intel 3** - In my first test chip project, I was involved in an **Enchancement Test Vehicle** for the Alder Lake processors. My task was to develop experiments through Physical Design to study crucial device physics - strained channel, DIBL, off-state leakage - affecting drive current and gain of FinFETs in that node. Being at a relatively matured stage, this technology node was a good lauchpad for making the transition from academia to industry.
 ----->
 -----
-![GF logo](/images/GlobalFoundries-New-Logo.png)
+<!--![GF logo](/images/GlobalFoundries-New-Logo.png)-->
+<img src="/images/GlobalFoundries-New-Logo.png" alt="image" width="180" height="150">
+
 ## GlobalFoundries
 ### Antenna Design and Electrical Modeling Intern | Albany, NY | June 2020 - Aug 2020
 
@@ -53,7 +55,9 @@ During the COVID pandemic, I worked remotely in the Advanced Silicon Packaging t
 
 -----
 
-![isitfresh logo](/images/isitfresh.png)
+<!-- ![isitfresh logo](/images/isitfresh.png) -->
+<img src="/images/isitfresh.png" alt="image" width="180" height="150">
+
 ## is it fresh GmbH
 ### Antenna Design Intern | Aachen, Germany | May 2018 - Jul 2018 and Jan 2019 - May 2019
 
@@ -61,11 +65,13 @@ During the COVID pandemic, I worked remotely in the Advanced Silicon Packaging t
 
 I worked two stints in Germany - first, on a [DAAD-UGC Scholarship](https://www.daad.in/en/2021/06/30/daad-ugc-project-based-personnel-exchange-programme-ppp-2021/) in the summer after my junior year undergrad, and second, as an intern sponsored by the company to pursue my Bachelor's thesis with them.
 
-Work in a startup is always fun and dynamic. I was involved in many roles - from building SMD prototypes integrating the printed sensors with NFC circuitry to woodwork and glass cutting for building our own assembly line demo. This place solidified my passion in engineering and helped me decide my path ahead. 
+Work in a startup is always fun and dynamic. I was involved in many roles - from building SMD prototypes, integrating the printed sensors with NFC circuitry, woodwork and glass cutting for building our own assembly line demo. This place solidified my passion in engineering and helped me decide my path ahead. 
 
 **Projects:**
-1. Design and manufacture of non-standard sized NFC reader antennas to increase the read-out range without increasing the output power.
-2. Design, production and testing of high resistance thin-film Aluminium NFC tag antennas.
+1. Design and manufacture of non-standard sized NFC reader antennas to increase the read-out range at iso-output power.
+2. Design, production and testing of high resistance thin-film Aluminium NFC tags.
+
+You can find more about my Bachelor's thesis work in the [Projects](/pages/projects.md) tab.
 
 **Skills**: Antenna Design, EM simulations, Thin Films, Prototyping and fabrication
 <!---
