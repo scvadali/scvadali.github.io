@@ -64,7 +64,7 @@ Offered by Prof. Robert Erickson of UC Boulder, the Power Electronics Specializa
 3. Converter Control - [Certificate](https://www.coursera.org/account/accomplishments/certificate/J8QXCGVXYN4G)
 4. Magnetics for Power Electronic Converters - [Certificate](https://www.coursera.org/account/accomplishments/certificate/S44TTBXFRG2P)
 
-In addition to this, I've also picked up basic Digital System design during undergrad through this course -
+In addition to this, I've also picked up fundamentals of Digital System design through this course -
 1. Digital Systems: From Logic Gates to Processors - [Certificate](https://www.coursera.org/account/accomplishments/certificate/38UJ4JWX97PR)
 
 
