@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is my CV, updated as of December 2023.
+[Here](/files/Chandrahaas Vadali_Resume_Dec_2023_v3.pdf) is my CV, updated as of December 2023.
 
 <!---
 {% include base_path %}
@@ -55,10 +55,13 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
 
-  -->
+
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+  -->
