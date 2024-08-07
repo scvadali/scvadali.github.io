@@ -10,17 +10,22 @@ redirect_from:
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 --->
-## At the nanoscale
+## Hi, there!
 
-I am Chandrahaas Vadali, a Hardware Engineer working on advancing [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) and taking semicoductor devices to the next generation. Tackling challenges in device physics, process integration, and circuit-device co-optimization in cutting edge technology nodes fascinate me! 
+I am Chandrahaas Vadali, a first-year Ph.D student in the EECS department at [UC Berkeley](https://www.berkeley.edu/). My interests are in device-circuit co-optimizaiton, and mixed-signal circuit design for sensing hardware. 
+
+## Industry 
+
+Before beginning my Ph.D., I worked at Intel for 3 years from 2021 in the Logic Technology Development division in Portland, OR. As a Device Engineer, I focused on improving the electrical performance of RibbonFETs and high-NA interconnects for process nodes beyond [Intel 14A](https://www.tomshardware.com/pc-components/cpus/intel-completes-assembly-of-first-commercial-high-na-euv-chipmaking-tool-as-it-preps-for-14a-process). My primary focus in FEOL was developing a robust low-k gate-spacer and facilitating healthy source/drain epitaxy for our Gate-All-Around FETs. On the backend, I worked on a novel area-selective deposition process aimed at improving the shorting margin between vias and adjacent metal layers. 
+
+## Education 
+
+My training in Electrical Engineering and Materials Science has enabled me to work on hardware at different abstraction levels—from process development in the fab, to device physics and device modeling, to mixed-signal circuit design. I picked up my Bachelor's degree from [IIT Madras](https://www.iitm.ac.in/) and Master's from [Stanford University](https://www.stanford.edu/). 
 
 
-Trained as a Materials Scientist and an Electrical Engineer, I believe that a modern-day engineer should be well equipped not just to be able to solve problems but also to able to ask tough questions which are necessary to change the innovation landscape. 
+## Hobbies
 
-## On a broader note
-
-In my free time, I run, bike, and post my adventures on [Strava](https://www.strava.com/athletes/76413605) and [Medium](https://medium.com/@scvadali).
-For the past two years, I've been training in Carnatic Music, which is a classical South Indian form of music with emphasis on vocals and singing. 
+I love running and biking! When I seek a peaceful escape, I go bikepacking, and you can read about my adventures in my [blog](https://medium.com/@scvadali). For the past three years, I've also been training in Carnatic music, a classical South Indian art form that emphasizes vocal performance. 
 
 
 
