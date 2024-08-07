@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+Here is my CV, updated as of December 2023.
+
+<!---
 {% include base_path %}
 
 Education
@@ -51,6 +54,8 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
+
+  -->
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
