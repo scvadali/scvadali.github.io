@@ -3,11 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 [Here](/files/Chandrahaas Vadali_Resume_Dec_2023_v3.pdf) is my CV, updated as of December 2023.
+
 
 <!---
 {% include base_path %}
