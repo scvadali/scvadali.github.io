@@ -73,7 +73,7 @@ Work in a startup is always fun and dynamic. I was involved in many roles - from
 
 You can find more about my Bachelor's thesis work in the [Projects](/pages/projects.md) tab.
 
-**Skills**: Antenna Design, EM simulations, Thin Films, Prototyping and fabrication
+**Skills**: Antenna Design, EM simulations, Thin Films, Prototyping and Fabrication
 
 <!---
 {% if author.googlescholar %}
