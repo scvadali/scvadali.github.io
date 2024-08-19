@@ -19,7 +19,7 @@ Focus on intergrated circuits. Currently rotating in Prof. Anwar's [lab](https:/
 
 
 --------------------------------------------------------------------------------------------------------
-<img src="/images/stanlogo2.png" alt="image" width="180" height="190">
+<img src="/images/stanlogo2.png" alt="image" width="180" height="170">
 
 ## Stanford University
 ### M.S. in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
