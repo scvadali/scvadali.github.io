@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 
 ---
-<img src="/images/b_logo_2.png" alt="image" width="240" height="180">
+<img src="/images/berklogo3.png" alt="image" width="180" height="180">
 
 ## University of California, Berkeley
 ### Ph.D. in Electrical Engineering and Computer Science | 2024- | GPA: **
@@ -67,6 +67,7 @@ Design and fabrication of printed antennas in VHF and UHF range (PI: Prof. Paras
 4. Co-ordinator, Envisage, Shaastra 2016 - [Shaastra](https://www.shaastra.org/)
 
 -------
+<img src="/images/coursera logo.png" alt="image" width="180" height="180">
 
 ## Coursera
 ### Power Electronics Specialization
