@@ -5,6 +5,16 @@ permalink: /education/
 author_profile: true
 
 ---
+
+## University of California, Berkeley
+### Ph.D. in Electrical Engineering and Computer Science | 2024- | GPA: **
+
+Focus on intergrated circuits. Currently rotating in Prof. Anwar's [lab](https://www.anwarlab.org/research).
+
+**Key Coursework**
+1. Introduction to Digital Design and Integrated Circuits
+2. Analog Integrated Circuits
+--------------------------------------------------------------------------------------------------------
 <img src="/images/stanford.png" alt="image" width="180" height="180">
 
 ## Stanford University
