@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+List of different projects and some key highlights from each one of them. The exhaustive list is still being compiled.
+
 <!--
 For projects in my current role and at previous internships, please check out the [Career](https://scvadali.github.io/career/) page.
 
@@ -21,6 +24,17 @@ During my Bachelor's and Master's programs, I worked on short and focussed proje
 Working in student clubs at Center For Innovation was perhaps the most productive and beneficial part of an undergraduate program at IIT Madras. 
 
 -->
+# Master's Thesis
+
+## Semi-empirical modeling of impact ionization in wide bandgap systems 
+### PI: Prof. Srabanti Chowdhury | Sep '20 - May '21 | Stanford, CA
+
+The scope of this project was limited to a theoretical study and model building due to the pandemic.
+
+1. Identified discrepancies in voltage-dependent extraction of impact ionization coefficient a in synthetic diamond diodes in
+experimental literature employing photomultiplication techniques on various device architectures
+2. Proposed a semi-empirical model for a by fitting experimental data to a harmonic sum incorporating applied electric field,
+electron momentum changes from E-k diagram during collisions, and electron-phonon interactions
 
 
 # Bachelor's Thesis
@@ -46,6 +60,8 @@ coils through experimental work
 ## Many-in-one wearable virtual musical instruments
 ### Indian Patent no. 481647 | Aug '16 - Feb '17 | Center for Innovation, IIT Madras
 
+While working on for the annual tech fest at IIT Madras, a few friends and I decided to build Indian musical instruments. 
+
 1. Patented gesture-controlled musical instruments with sensor-loaded gloves, eliminating the need for physical structures
 2. Trained classification models to interpret hand and head movements and perform diverse instruments like violin, flute,
 tabla, guitar, on a single pair of gloves
@@ -57,6 +73,8 @@ tabla, guitar, on a single pair of gloves
 ## Partial RESET-based WRITE strategies for Multi-level Cell in Phase-Change Memories
 ### EE309A/B: Semiconductor memory devices and circuit design | Sep '20 - Mar '21 | Stanford
 
+I still use the Airpods Pro that I won from this project!
+
 1. Developed a novel multi-step WRITE strategy for MLC in GeSeTe-based PCMs to minimize energy-delay product
 2. Awarded Best Project Award sponsored by Apple in an advanced graduate class of over 40 students for demonstrating
 faster, energy-efficient MLC capability with significant potential for memory-intensive AI applications
@@ -66,20 +84,13 @@ thermodynamics (energy) and crystallization kinetics (latency) of phase changes 
 energy-delay product to inherently faster but less area-efficient single-bit PCM cells
 
 
-# Master's Thesis
-
-## Semi-empirical modeling of impact ionization in wide bandgap systems 
-### PI: Prof. Srabanti Chowdhury | Sep '20 - May '21 | Stanford, CA
-
-1. Identified discrepancies in voltage-dependent extraction of impact ionization coefficient a in synthetic diamond diodes in
-experimental literature employing photomultiplication techniques on various device architectures
-2. Proposed a semi-empirical model for a by fitting experimental data to a harmonic sum incorporating applied electric field,
-electron momentum changes from E-k diagram during collisions, and electron-phonon interactions
 
 # Student Club Projects
 
 ## Indoor Positioning System using Wi-Fi
 ### Electronics Club | Mar '16 - Oct '16 Center For Innovation, IIT Madras 
+
+This was my first ever foray into electronics and engineering. 
 
 1. Engineered an indoor positioning system using the $5 WiFi-enabled ESP8266-01 IoT13 module, achieving 1-2 m accuracy
 2. Achieved a 10x cost reduction, 3x form factor reduction versus existing solutions, prompting interest from TVS Motor Company for warehouse inventory tracking implementation
