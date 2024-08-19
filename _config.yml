@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chandrahaas Vadali"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Chandrahaas Vadali"
 description              : &description "Hardware Engineer"
