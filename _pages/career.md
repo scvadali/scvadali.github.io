@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Career"
-permalink: /career/
+title: "Industry Experience"
+permalink: /industry/
 author_profile: true
 type: grid
 ---
