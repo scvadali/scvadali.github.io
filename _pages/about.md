@@ -25,7 +25,7 @@ My training in Electrical Engineering and Materials Science has enabled me to wo
 
 ## Hobbies
 
-I love running and biking! When I seek a peaceful escape, I go bikepacking, and you can read about my adventures in my [blog](https://medium.com/@scvadali). For the past three years, I've also been training in Carnatic music, a classical South Indian art form that emphasizes vocal performance. 
+I love running and biking! When I seek a peaceful escape, I go bikepacking, and you can read about my adventures in my [blog](https://medium.com/@scvadali). For the past four years, I've also been training in Carnatic music, a classical South Indian art form that emphasizes vocal performance. 
 
 
 
