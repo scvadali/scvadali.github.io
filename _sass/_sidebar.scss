@@ -102,8 +102,8 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 144px;  // Larger width for larger screens
-    height: 80px; // Ensure it remains a square
+    width: 180px;  // Larger width for larger screens
+    height: 100px; // Ensure it remains a square
   }
 
   img {
