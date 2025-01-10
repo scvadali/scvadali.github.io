@@ -5,6 +5,7 @@ permalink: /industry/
 author_profile: true
 type: grid
 ---
+---
 
 <img src="/images/intel.png" alt="image" width="150" height="150">
 
