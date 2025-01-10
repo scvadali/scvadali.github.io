@@ -89,7 +89,9 @@ Was a finalist in the Student Design Competition and invited to Apple Park as pa
 ## 3-stage Pipelined RISC-V CPU with a Direct-Mapped Cache
 ### EECS251A: Introduction to Digital Design and Integrated Circuits | Oct '24 - Dec '24 | UC Berkeley
 
-
+1. Designed a RISC-V-based CPU with a 3-stage pipeline in Verilog, successfully passing all provided testbench scenarios
+2. Implemented a direct-mapped cache using SRAM cells provided in the Skywater130 PDK
+3. Project documentation - [Link](https://scvadali.github.io/eecs251la_project/)
 
 ## Partial RESET-based WRITE strategies for Multi-level Cell (MLC) in Phase-Change Memories (PCM)
 ### EE309A/B: Semiconductor memory devices and circuit design | Sep '20 - Mar '21 | Stanford
