@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
+----
 List of different projects and some key highlights from each one of them.
 
 <!--
@@ -76,6 +77,20 @@ coils through experimental work
 
 # Course Projects
 
+## LCD sub-pixel driver Op-amp design
+### EE240A: Linear Integrated Circuits | Oct '24 - Dec '24 | UC Berkeley
+
+Was a finalist in the Student Design Competition and invited to Apple Park as part of their New Silicon Initiative, providing an exclusive opportunity to engage with industry leaders in IC design.
+
+1. Designed and simulated a **2-stage op-amp** to drive a sub-pixel model for a LCD display for a wearable designs on Cadence Virtuoso
+2. **Achieved all design speciications** and **maximized Figure of Merit** by minimizing power and settling time for a 350 mV step input
+3. Project documentation - [Link](https://scvadali.github.io/ee240a_project/)
+
+## 3-stage Pipelined RISC-V CPU with a Direct-Mapped Cache
+### EECS251A: Introduction to Digital Design and Integrated Circuits | Oct '24 - Dec '24 | UC Berkeley
+
+
+
 ## Partial RESET-based WRITE strategies for Multi-level Cell (MLC) in Phase-Change Memories (PCM)
 ### EE309A/B: Semiconductor memory devices and circuit design | Sep '20 - Mar '21 | Stanford
 
@@ -88,6 +103,7 @@ faster, energy-efficient MLC capability with significant potential for memory-in
 thermodynamics (energy) and crystallization kinetics (latency) of phase changes in GeSeTe
 4. Simulated this WRITE strategy on a specific array size using **NVSim/DESTINY**, with experimental results matching
 energy-delay product to inherently faster but less area-efficient single-bit PCM cells
+
 
 ---
 
