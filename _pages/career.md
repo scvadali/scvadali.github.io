@@ -11,19 +11,19 @@ type: grid
 ## Intel Corporation
 ### Device Engineer | Portland, OR | May 2021 - May 2024
 
-I worked in the Device Engineering group to enhance the performance of Intel's future nodes using Gate-All-Around FETs (GAAFET) and Extreme-UV scaling. I received two Divisional Awards for my outstanding contributions to key performance and yield-improving projects in the early stages of process development.
+I worked in the **Device Engineering Group** to enhance the performance of Intel's future nodes using Gate-All-Around FETs (GAAFET) and Extreme-UV scaling. I received two Divisional Awards for my outstanding contributions to key performance and yield-improving projects in the early stages of process development.
 
 My primary focus areas were –
 
 **Silicon Performance** 
-1.	Supported key FE process and module teams in the GAAFET loop by studying transistor low-voltage and short-channel behavior 
-2.	Performed statistical analysis of device performance in controlled process change experiments, and develop physical models to explain the modulations
-3.	Driving novel backend projects to improve shorting margin, RC performance of interconnects
-4.	Developed and derived new metrics to study electrical performance on different kinds of test structures to study process improvements on BEOL 
+1.	Supported key FE process and module teams in the GAAFET loop by studying transistor **low-voltage** and **short-channel behavior** 
+2.	Performed **statistical analysis** of device performance in controlled process change experiments, and develop physical models to explain the modulations
+3.	Driving novel backend projects to improve **shorting margin**, **RC performance** of interconnects
+4.	Developed and derived new metrics to study electrical performance on different kinds of test structures to study **process improvements on BEOL**
 
 **Test Chip Development**
-1.	Supported Test Chip development by building transistors and isolation structures to test the limits of device physics and process margins
-2.	Designing leading-edge test vehicles on Cadence Virtuoso involves a detailed understanding of devices and process parameters
+1.	Supported Test Chip development by building transistors and **isolation structures** to test the limits of device physics and process margins
+2.	Designing leading-edge test vehicles on **Cadence Virtuoso** involves a detailed understanding of devices and process parameters
 
 **Skills**: Electrical Characterization, Statistical Process Control, Device Physics, Thin Films, Physical Design
 
@@ -38,7 +38,7 @@ On a daily basis, I work on building and optimizing test structures that probe i
 ----->
 -----
 <!--![GF logo](/images/GlobalFoundries-New-Logo.png)-->
-<img src="/images/GlobalFoundries-New-Logo.png" alt="image" width="180" height="150">
+<img src="/images/GlobalFoundries-New-Logo.png" alt="image" width="190" height="140">
 
 ## GlobalFoundries
 ### Antenna Design and Electrical Modeling Intern | Albany, NY | June 2020 - Aug 2020
@@ -61,15 +61,15 @@ During the COVID pandemic, I worked remotely in the Advanced Silicon Packaging t
 ## is it fresh GmbH
 ### Antenna Design Intern | Aachen, Germany | May 2018 - Jul 2018 and Jan 2019 - May 2019
 
-**is it fresh GmbH** works on smart tags that monitor food freshness through humidity and oxygen-levels which are read out using a NFC interface.
+**is it fresh GmbH** works on smart tags that monitor **food freshness** through humidity and oxygen-levels which are read out using a **NFC interface**.
 
 I worked two stints in Germany - first, on a [DAAD-UGC Scholarship](https://www.daad.in/en/2021/06/30/daad-ugc-project-based-personnel-exchange-programme-ppp-2021/) in the summer after my junior year undergrad, and second, as an intern sponsored by the company to pursue my Bachelor's thesis with them.
 
 Work in a startup is always fun and dynamic. I was involved in many roles - from building SMD prototypes, integrating the printed sensors with NFC circuitry, woodwork and glass cutting for building our own assembly line demo. This place solidified my passion in engineering and helped me decide my path ahead. 
 
 **Projects:**
-1. Design and manufacture of non-standard sized NFC reader antennas to increase the read-out range at iso-output power.
-2. Design, production and testing of high resistance thin-film Aluminium NFC tags.
+1. Design and manufacture of **non-standard sized NFC reader antennas** to increase the **read-out range** at iso-output power.
+2. Design, production and testing of **high resistance thin-film Aluminium NFC tags**.
 
 You can find more about my Bachelor's thesis work in the [Projects](/pages/projects.md) tab.
 
