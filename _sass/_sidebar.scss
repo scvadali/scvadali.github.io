@@ -102,7 +102,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 150px;  // Larger width for larger screens
+    width: 200px;  // Larger width for larger screens
     height: 150px; // Ensure it remains a square
   }
 
