@@ -15,8 +15,8 @@ Major: IC design
 PI: Prof. Mekhail Anwar - [Lab](https://www.anwarlab.org/research).
 
 **Key Coursework**
-1. EECS251A: Introduction to Digital Design and Integrated Circuits [Final Project]((/pages/projects.md))
-2. EE240A: Analog Integrated Circuits [Final Project]((/pages/projects.md))
+1. EECS251A: Introduction to Digital Design and Integrated Circuits [Final Project](/_pages/projects.md)
+2. EE240A: Analog Integrated Circuits [Final Project](/_pages/projects.md)
 3. EECS251B: Advanced Digital Integrated Circuits and Systems
 4. EE240B: Advanced Analog Integrated Circuits
 
@@ -38,7 +38,7 @@ Semi-empirical modeling of impact ionization in wide bandgap systems (PI: Prof. 
 !-->
 **Key Coursework**
 1. Semiconductor Memory Devices and Circuit Design
-2. Emerging Non-Volatile Memory Devices and Circuit Design [Final Project]((/pages/projects.md))
+2. Emerging Non-Volatile Memory Devices and Circuit Design [Final Project](/_pages/projects.md)
 3. Power Semiconductor Devices
 4. Special Topics in Wide Band Gap Devices 
 5. Advanced IC Technology, IC Fabrication Lab
@@ -58,7 +58,7 @@ Minor in Semiconductor Devices (Electrical Engineering).
 **Bachelor's Thesis**
 
 Design and fabrication of printed antennas in VHF and UHF range (PI: Prof. Parasuraman Swaminathan and Dr. Jan Schnitker) - 
-[Overview]((/pages/projects.md))
+[Overview](/_pages/projects.md)
 
 **Key Coursework**
 1. Compact Modeling of Devices in ICs
