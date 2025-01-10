@@ -103,7 +103,7 @@
   @include breakpoint($large) {
     display: block;
     width: 180px;  // Larger width for larger screens
-    height: 100px; // Ensure it remains a square
+    height: 120px; // Ensure it remains a square
   }
 
   img {
