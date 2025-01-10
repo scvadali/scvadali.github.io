@@ -8,34 +8,39 @@ author_profile: true
 <img src="/images/berklogo3.png" alt="image" width="180" height="180">
 
 ## University of California, Berkeley
-### Ph.D. in Electrical Engineering and Computer Science | 2024- | GPA: **
+### Ph.D. in Electrical Engineering and Computer Science | 2024- | GPA: 3.76/4.00
 
-Focus on intergrated circuits. Currently rotating in Prof. Anwar's [lab](https://www.anwarlab.org/research).
+Major: IC design 
+
+PI: Prof. Mekhail Anwar - [Lab](https://www.anwarlab.org/research).
 
 **Key Coursework**
-1. Introduction to Digital Design and Integrated Circuits
-2. Analog Integrated Circuits
+1. EECS251A: Introduction to Digital Design and Integrated Circuits [Final Project]()
+2. EE240A: Analog Integrated Circuits [Final Project]()
+3. EECS251B: Advanced Digital Integrated Circuits and Systems
+4. EE240B: Advanced Analog Integrated Circuits
 
 
 
 --------------------------------------------------------------------------------------------------------
-<img src="/images/stanlogo2.png" alt="image" width="180" height="160">
+<img src="/images/stanlogo2.png" alt="image" width="180" height="140">
 
 ## Stanford University
 ### M.S. in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
 
 Emphasis on semiconductor devices and solid state circuits. 
 
+<!--
 **Master's Thesis**
 
 Semi-empirical modeling of impact ionization in wide bandgap systems (PI: Prof. Srabanti Chowdhury) - 
 [Overview]()
-
+!-->
 **Key Coursework**
 1. Semiconductor Memory Devices and Circuit Design
 2. Emerging Non-Volatile Memory Devices and Circuit Design [Final Project]()
 3. Power Semiconductor Devices
-4. Special Topics in Wide Band Gap Devices [Final Project]()
+4. Special Topics in Wide Band Gap Devices 
 5. Advanced IC Technology, IC Fabrication Lab
 6. Electronics and Photonics Materials and Devices Lab
 
