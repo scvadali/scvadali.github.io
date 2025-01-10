@@ -23,7 +23,7 @@ PI: Prof. Mekhail Anwar - [Lab](https://www.anwarlab.org/research).
 
 
 --------------------------------------------------------------------------------------------------------
-<img src="/images/stanlogo2.png" alt="image" width="180" height="140">
+<img src="/images/stanlogo2.png" alt="image" width="180" height="120">
 
 ## Stanford University
 ### M.S. in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
