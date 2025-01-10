@@ -5,6 +5,9 @@ permalink: /education/
 author_profile: true
 
 ---
+
+----
+
 <img src="/images/berklogo3.png" alt="image" width="180" height="180">
 
 ## University of California, Berkeley
