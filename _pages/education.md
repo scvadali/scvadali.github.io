@@ -7,16 +7,10 @@ author_profile: true
 ---
 
 
-{% for edu in site.education %}
-  <div class="education-entry">
-    {% if edu.image %}
-      <img src="{{ edu.image }}" alt="{{ edu.title }}" width="180" height="180">
-    {% endif %}
-    <h2>{{ edu.title }}</h2>
-    <p><em>{{ edu.excerpt }}</em></p>
-    {{ edu.content | markdownify }}
-    <hr>
-  </div>
+
+{% include base_path %}
+{% for entry in site.education %}
+  {% include archive-single.html %}
 {% endfor %}
 
 
