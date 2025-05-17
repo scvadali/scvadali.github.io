@@ -2,11 +2,12 @@
 title: "Indian Institute of Technology, Madras"
 layout: collection
 excerpt: "B.Tech. in Metallurgical and Materials Engineering | 2015-2019 | GPA: 8.71/10.00"
+permalink: /education/iitm
 image: /images/IIT_Madras_logo.png
 ---
 
 
-## Indian Institute of Technology, Madras
+
 ### Minor in Semiconductor Devices (Electrical Engineering) 
 
 Co-curricular Activities:
