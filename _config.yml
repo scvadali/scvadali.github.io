@@ -193,7 +193,7 @@ collections:
   #adding education
   education:
     output: true
-    permalink: /:collection/:path/
+    permalink: /education/:name/
   
 
 
