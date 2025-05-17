@@ -6,6 +6,21 @@ author_profile: true
 
 ---
 
+
+{% for edu in site.education %}
+  <div class="education-entry">
+    {% if edu.image %}
+      <img src="{{ edu.image }}" alt="{{ edu.title }}" width="180" height="180">
+    {% endif %}
+    <h2>{{ edu.title }}</h2>
+    <p><em>{{ edu.excerpt }}</em></p>
+    {{ edu.content | markdownify }}
+    <hr>
+  </div>
+{% endfor %}
+
+
+<!--
 ----
 
 <img src="/images/berklogo3.png" alt="image" width="180" height="180">
@@ -32,13 +47,13 @@ PI: Prof. Mekhail Anwar - [Lab](https://www.anwarlab.org/research).
 ### M.S. in Material Science and Engineering | 2019-2021 | GPA: 3.97/4.00
 
 Emphasis on semiconductor devices and solid state circuits. 
-
+!-->
 <!--
 **Master's Thesis**
 
 Semi-empirical modeling of impact ionization in wide bandgap systems (PI: Prof. Srabanti Chowdhury) - 
 [Overview]()
-!-->
+
 **Key Coursework**
 1. Semiconductor Memory Devices and Circuit Design
 2. Emerging Non-Volatile Memory Devices and Circuit Design [Final Project](/projects)
@@ -90,7 +105,7 @@ Offered by Prof. Robert Erickson of UC Boulder, the Power Electronics Specializa
 In addition to this, I've also picked up fundamentals of Digital System design through this course -
 1. Digital Systems: From Logic Gates to Processors - [Certificate](https://www.coursera.org/account/accomplishments/certificate/38UJ4JWX97PR)
 
-
+!-->
 <!---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -102,3 +117,5 @@ In addition to this, I've also picked up fundamentals of Digital System design t
   {% include archive-single.html %}
 {% endfor %}
 --->
+
+
