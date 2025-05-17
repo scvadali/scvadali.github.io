@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 {% for entry in site.education %}
-  {% include archive-single.html post=entry %}
+  {% include category-list.html post=entry %}
 {% endfor %}
 
 <!--
