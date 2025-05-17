@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 --->
 ## Hi, there!
 
-I am Chandrahaas Vadali, a first-year Ph.D student in the EECS department at [UC Berkeley](https://www.berkeley.edu/). My interests are in device-circuit co-optimizaiton, and mixed-signal circuit design for sensing hardware. 
+I am Chandrahaas Vadali, a first-year Ph.D student in the EECS department at [UC Berkeley](https://www.berkeley.edu/). My interests are in analog front-ends and mixed-signal circuit design for sensing hardware. 
 
 ## Industry 
 
