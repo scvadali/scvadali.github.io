@@ -190,7 +190,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  #adding industry 
+  #adding education
+  education:
+    output: true
+    permalink: /:collection/:path/
   
 
 
