@@ -7,9 +7,10 @@ author_profile: true
 ---
 
 
+{% include base_path %}
 
 {% for entry in site.education %}
-  <p>{{ entry.title }} — <a href="{{ entry.url }}">{{ entry.url }}</a></p>
+  {% include archive-single.html post=entry %}
 {% endfor %}
 
 <!--
