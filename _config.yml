@@ -191,9 +191,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   #adding industry 
-  industry:
-    output: true
-    permalink: /industry/:name/
+  
 
 
 # Defaults
